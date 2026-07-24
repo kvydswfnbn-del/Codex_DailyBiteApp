@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "db_20260724_2026-07-24-dairy-queen-free-mini-blizzard-lemonade-cooler-or-sparkler",
+    "title": "Free Mini Blizzard, Lemonade Cooler or Sparkler",
+    "restaurant": "Dairy Queen",
+    "description": "Free Mini Blizzard, Lemonade Cooler, or Sparkler for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.dairyqueen.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Dairy Queen",
+      "url": "https://www.dairyqueen.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.dairyqueen.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 10,
+      "simplicity": 16,
+      "scarcity": 15
+    },
+    "bite_score": 81,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "created_at": "2026-07-24T23:25:45.779Z",
+    "updated_at": "2026-07-24T23:25:45.779Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  }
+]
