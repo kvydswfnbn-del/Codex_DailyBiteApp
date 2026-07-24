@@ -1,5 +1,250 @@
 [
   {
+    "id": "db_20260726_2026-07-26-verizon-free-backpack-giveaway",
+    "title": "Free Backpack Giveaway",
+    "restaurant": "Verizon",
+    "description": "Free backpack giveaway event.",
+    "location": "Nationwide",
+    "source_url": "https://www.verizon.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Verizon",
+      "url": "https://www.verizon.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.verizon.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 25,
+      "simplicity": 16,
+      "scarcity": 15
+    },
+    "bite_score": 96,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-26",
+    "event_end_date": "2026-07-26",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260729_2026-07-29-buffalo-wild-wings-free-wings-w-food-purchase-15-or-more",
+    "title": "Free Wings w/ Food Purchase $15 or More",
+    "restaurant": "Buffalo Wild Wings",
+    "description": "Free wings with a food purchase of $15 or more for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.buffalowildwings.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Buffalo Wild Wings",
+      "url": "https://www.buffalowildwings.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.buffalowildwings.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 25,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 88,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260729_2026-07-29-whataburger-bogo-free-9-piece-whatawings",
+    "title": "BOGO Free 9-Piece WhataWings",
+    "restaurant": "Whataburger",
+    "description": "Buy one 9-piece WhataWings, get one free for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://whataburger.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Whataburger",
+      "url": "https://whataburger.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://whataburger.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 25,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 88,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260729_2026-07-29-pizza-hut-bogo-free-wings",
+    "title": "BOGO Free Wings",
+    "restaurant": "Pizza Hut",
+    "description": "Buy one get one free wings for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.pizzahut.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Pizza Hut",
+      "url": "https://www.pizzahut.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.pizzahut.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 25,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 88,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260724_2026-07-24-tropical-smoothie-cafe-free-smoothie",
+    "title": "Free Smoothie",
+    "restaurant": "Tropical Smoothie Cafe",
+    "description": "Free Smoothie for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.tropicalsmoothiecafe.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Tropical Smoothie Cafe",
+      "url": "https://www.tropicalsmoothiecafe.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.tropicalsmoothiecafe.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 15,
+      "simplicity": 16,
+      "scarcity": 15
+    },
+    "bite_score": 86,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260725_2026-07-25-tropical-smoothie-cafe-free-smoothie",
+    "title": "Free Smoothie",
+    "restaurant": "Tropical Smoothie Cafe",
+    "description": "Free Smoothie weekend deal.",
+    "location": "Nationwide",
+    "source_url": "https://www.tropicalsmoothiecafe.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Tropical Smoothie Cafe",
+      "url": "https://www.tropicalsmoothiecafe.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.tropicalsmoothiecafe.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 15,
+      "simplicity": 16,
+      "scarcity": 15
+    },
+    "bite_score": 86,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-25",
+    "event_end_date": "2026-07-25",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260726_2026-07-26-lego-free-lego-sports-car-build-event",
+    "title": "Free LEGO Sports Car Build Event",
+    "restaurant": "LEGO",
+    "description": "Free LEGO sports car build event in stores.",
+    "location": "Nationwide",
+    "source_url": "https://www.lego.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "LEGO",
+      "url": "https://www.lego.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.lego.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 13,
+      "simplicity": 16,
+      "scarcity": 15
+    },
+    "bite_score": 84,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-26",
+    "event_end_date": "2026-07-26",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
     "id": "db_20260724_2026-07-24-dairy-queen-free-mini-blizzard-lemonade-cooler-or-sparkler",
     "title": "Free Mini Blizzard, Lemonade Cooler or Sparkler",
     "restaurant": "Dairy Queen",
@@ -30,8 +275,673 @@
     "category": "promotion",
     "event_start_date": "2026-07-24",
     "event_end_date": "2026-07-24",
-    "created_at": "2026-07-24T23:25:45.779Z",
-    "updated_at": "2026-07-24T23:25:45.779Z",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260726_2026-07-26-dairy-queen-free-mini-blizzard",
+    "title": "Free Mini Blizzard",
+    "restaurant": "Dairy Queen",
+    "description": "Free Mini Blizzard weekend deal.",
+    "location": "Nationwide",
+    "source_url": "https://www.dairyqueen.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Dairy Queen",
+      "url": "https://www.dairyqueen.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.dairyqueen.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 10,
+      "simplicity": 16,
+      "scarcity": 15
+    },
+    "bite_score": 81,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-26",
+    "event_end_date": "2026-07-26",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260724_2026-07-24-chick-fil-a-freebies-merchandise-and-free-food",
+    "title": "Freebies, Merchandise, and Free Food",
+    "restaurant": "Chick-fil-A",
+    "description": "Freebies, merchandise, and free food at select locations for National Drive-Thru Day.",
+    "location": "Select Locations",
+    "source_url": "https://www.chick-fil-a.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Chick-fil-A",
+      "url": "https://www.chick-fil-a.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.chick-fil-a.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 13,
+      "simplicity": 16,
+      "scarcity": 11
+    },
+    "bite_score": 80,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260724_2026-07-24-jack-in-the-box-free-jr-jumbo-jack-or-jr-chicken-sandwich",
+    "title": "Free Jr. Jumbo Jack or Jr. Chicken Sandwich",
+    "restaurant": "Jack in the Box",
+    "description": "Free Jr. Jumbo Jack or Jr. Chicken Sandwich for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.jackinthebox.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Jack in the Box",
+      "url": "https://www.jackinthebox.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.jackinthebox.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 9,
+      "simplicity": 16,
+      "scarcity": 15
+    },
+    "bite_score": 80,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260724_2026-07-24-jimmy-john-s-free-house-made-lemonade",
+    "title": "Free House-Made Lemonade",
+    "restaurant": "Jimmy John's",
+    "description": "Free House-Made Lemonade for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.jimmyjohns.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Jimmy John's",
+      "url": "https://www.jimmyjohns.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.jimmyjohns.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 8,
+      "simplicity": 16,
+      "scarcity": 15
+    },
+    "bite_score": 79,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260724_2026-07-24-7-brew-bogo-frozen-drinks",
+    "title": "BOGO Frozen Drinks",
+    "restaurant": "7 Brew",
+    "description": "Buy one frozen drink, get one free for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://7brew.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "7 Brew",
+      "url": "https://7brew.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://7brew.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 15,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 78,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260725_2026-07-25-nothing-bundt-cakes-bogo-bundtlets",
+    "title": "BOGO Bundtlets",
+    "restaurant": "Nothing Bundt Cakes",
+    "description": "Buy one Bundtlet, get one free weekend deal.",
+    "location": "Nationwide",
+    "source_url": "https://www.nothingbundtcakes.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Nothing Bundt Cakes",
+      "url": "https://www.nothingbundtcakes.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.nothingbundtcakes.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 14,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 77,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-25",
+    "event_end_date": "2026-07-25",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260724_2026-07-24-scooter-s-coffee-free-limited-edition-sticker",
+    "title": "Free Limited-Edition Sticker",
+    "restaurant": "Scooter's Coffee",
+    "description": "Free limited-edition sticker for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.scooterscoffee.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Scooter's Coffee",
+      "url": "https://www.scooterscoffee.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.scooterscoffee.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 5,
+      "simplicity": 16,
+      "scarcity": 15
+    },
+    "bite_score": 76,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260726_2026-07-26-auntie-anne-s-bogo-free-pretzels",
+    "title": "BOGO Free Pretzels",
+    "restaurant": "Auntie Anne's",
+    "description": "Buy one pretzel, get one free weekend deal.",
+    "location": "Nationwide",
+    "source_url": "https://www.auntieannes.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Auntie Anne's",
+      "url": "https://www.auntieannes.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.auntieannes.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 11,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 74,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-26",
+    "event_end_date": "2026-07-26",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260724_2026-07-24-hteao-free-cold-foam-add-on",
+    "title": "Free Cold Foam Add-On",
+    "restaurant": "HTeaO",
+    "description": "Free cold foam add-on for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://hteao.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "HTeaO",
+      "url": "https://hteao.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://hteao.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 40,
+      "value": 3,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 66,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260729_2026-07-29-hooters-10-wings-for-7-29",
+    "title": "10 Wings for $7.29",
+    "restaurant": "Hooters",
+    "description": "10 wings for $7.29 for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.hooters.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Hooters",
+      "url": "https://www.hooters.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.hooters.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 12,
+      "value": 25,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 60,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260725_2026-07-25-domino-s-9-99-pizzas",
+    "title": "$9.99 Pizzas",
+    "restaurant": "Domino's",
+    "description": "$9.99 pizzas weekend deal.",
+    "location": "Nationwide",
+    "source_url": "https://www.dominos.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Domino's",
+      "url": "https://www.dominos.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.dominos.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 10,
+      "value": 25,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 58,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-25",
+    "event_end_date": "2026-07-25",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260729_2026-07-29-7-eleven-10-wings-for-8-via-7now-delivery",
+    "title": "10 Wings for $8 via 7NOW Delivery",
+    "restaurant": "7-Eleven",
+    "description": "Get 10 wings for $8 when ordering via 7NOW Delivery for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.7-eleven.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "7-Eleven",
+      "url": "https://www.7-eleven.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.7-eleven.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 10,
+      "value": 25,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 58,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260729_2026-07-29-zaxbys-10-wings-for-10",
+    "title": "10 Wings for $10",
+    "restaurant": "Zaxbys",
+    "description": "10 wings for $10 for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.zaxbys.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Zaxbys",
+      "url": "https://www.zaxbys.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.zaxbys.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 9,
+      "value": 25,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 57,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260726_2026-07-26-krystal-50-off-breakfast-combos",
+    "title": "50% Off Breakfast Combos",
+    "restaurant": "Krystal",
+    "description": "50% off breakfast combos weekend deal.",
+    "location": "Nationwide",
+    "source_url": "https://krystal.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Krystal",
+      "url": "https://krystal.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://krystal.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 15,
+      "value": 18,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 56,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-26",
+    "event_end_date": "2026-07-26",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260729_2026-07-29-tgi-fridays-matchday-wing-bites-starting-at-8-99",
+    "title": "Matchday Wing Bites Starting at $8.99",
+    "restaurant": "TGI Fridays",
+    "description": "Matchday Wing Bites starting at $8.99 for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.tgifridays.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "TGI Fridays",
+      "url": "https://www.tgifridays.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.tgifridays.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 8,
+      "value": 25,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 56,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260726_2026-07-26-wendy-s-1-classic-frosty",
+    "title": "$1 Classic Frosty",
+    "restaurant": "Wendy's",
+    "description": "$1 Classic Frosty weekend deal.",
+    "location": "Nationwide",
+    "source_url": "https://www.wendys.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Wendy's",
+      "url": "https://www.wendys.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.wendys.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 18,
+      "value": 6,
+      "simplicity": 16,
+      "scarcity": 15
+    },
+    "bite_score": 55,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-26",
+    "event_end_date": "2026-07-26",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260724_2026-07-24-wendy-s-1-small-classic-frosty",
+    "title": "$1 Small Classic Frosty",
+    "restaurant": "Wendy's",
+    "description": "$1 Small Classic Frosty for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.wendys.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Wendy's",
+      "url": "https://www.wendys.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.wendys.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 18,
+      "value": 6,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 47,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260729_2026-07-29-dave-buster-s-50-boneless-1-bone-in-wings",
+    "title": "50¢ Boneless & $1 Bone-In Wings",
+    "restaurant": "Dave & Buster's",
+    "description": "50¢ boneless wings and $1 bone-in wings for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.daveandbusters.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Dave & Buster's",
+      "url": "https://www.daveandbusters.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.daveandbusters.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 20,
+      "value": 4,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 47,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
+    "reason": "Verified and scored by the DailyBite pipeline"
+  },
+  {
+    "id": "db_20260729_2026-07-29-plucker-s-wing-bar-1-bone-in-wings",
+    "title": "$1 Bone-In Wings",
+    "restaurant": "Plucker's Wing Bar",
+    "description": "$1 bone-in wings for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.pluckers.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Plucker's Wing Bar",
+      "url": "https://www.pluckers.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.pluckers.com"
+      }
+    ],
+    "score_breakdown": {
+      "free_or_low_cost": 13,
+      "value": 4,
+      "simplicity": 8,
+      "scarcity": 15
+    },
+    "bite_score": 40,
+    "verified": true,
+    "verification_type": "Official",
+    "event_type": "promotion",
+    "category": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "created_at": "2026-07-24T23:34:13.348Z",
+    "updated_at": "2026-07-24T23:34:13.348Z",
     "reason": "Verified and scored by the DailyBite pipeline"
   }
 ]
