@@ -30,5 +30,837 @@
       "availability": "nationwide",
       "time_sensitive": true
     }
+  },
+  {
+    "candidate_id": "candidate_20260724_002",
+    "status": "approved",
+    "title": "$1 Small Classic Frosty",
+    "restaurant": "Wendy's",
+    "description": "$1 Small Classic Frosty for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.wendys.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Wendy's",
+      "url": "https://www.wendys.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.wendys.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "pricing": {
+      "item_value_cents": 250,
+      "user_price_cents": 100,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_003",
+    "status": "approved",
+    "title": "Free Smoothie",
+    "restaurant": "Tropical Smoothie Cafe",
+    "description": "Free Smoothie for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.tropicalsmoothiecafe.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Tropical Smoothie Cafe",
+      "url": "https://www.tropicalsmoothiecafe.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.tropicalsmoothiecafe.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "pricing": {
+      "item_value_cents": 600,
+      "user_price_cents": 0,
+      "purchase_required": false,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_004",
+    "status": "approved",
+    "title": "Freebies, Merchandise, and Free Food",
+    "restaurant": "Chick-fil-A",
+    "description": "Freebies, merchandise, and free food at select locations for National Drive-Thru Day.",
+    "location": "Select Locations",
+    "source_url": "https://www.chick-fil-a.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Chick-fil-A",
+      "url": "https://www.chick-fil-a.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.chick-fil-a.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "pricing": {
+      "item_value_cents": 500,
+      "user_price_cents": 0,
+      "purchase_required": false,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "select_locations",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_005",
+    "status": "approved",
+    "title": "Free Jr. Jumbo Jack or Jr. Chicken Sandwich",
+    "restaurant": "Jack in the Box",
+    "description": "Free Jr. Jumbo Jack or Jr. Chicken Sandwich for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.jackinthebox.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Jack in the Box",
+      "url": "https://www.jackinthebox.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.jackinthebox.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "pricing": {
+      "item_value_cents": 350,
+      "user_price_cents": 0,
+      "purchase_required": false,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_006",
+    "status": "approved",
+    "title": "Free House-Made Lemonade",
+    "restaurant": "Jimmy John's",
+    "description": "Free House-Made Lemonade for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.jimmyjohns.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Jimmy John's",
+      "url": "https://www.jimmyjohns.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.jimmyjohns.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "pricing": {
+      "item_value_cents": 300,
+      "user_price_cents": 0,
+      "purchase_required": false,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_007",
+    "status": "approved",
+    "title": "BOGO Frozen Drinks",
+    "restaurant": "7 Brew",
+    "description": "Buy one frozen drink, get one free for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://7brew.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "7 Brew",
+      "url": "https://7brew.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://7brew.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "pricing": {
+      "item_value_cents": 600,
+      "user_price_cents": 0,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_008",
+    "status": "approved",
+    "title": "Free Limited-Edition Sticker",
+    "restaurant": "Scooter's Coffee",
+    "description": "Free limited-edition sticker for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.scooterscoffee.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Scooter's Coffee",
+      "url": "https://www.scooterscoffee.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.scooterscoffee.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "pricing": {
+      "item_value_cents": 200,
+      "user_price_cents": 0,
+      "purchase_required": false,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_009",
+    "status": "approved",
+    "title": "Free Cold Foam Add-On",
+    "restaurant": "HTeaO",
+    "description": "Free cold foam add-on for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://hteao.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "HTeaO",
+      "url": "https://hteao.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://hteao.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "pricing": {
+      "item_value_cents": 100,
+      "user_price_cents": 0,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_010",
+    "status": "approved",
+    "title": "10 Wings for $8 via 7NOW Delivery",
+    "restaurant": "7-Eleven",
+    "description": "Get 10 wings for $8 when ordering via 7NOW Delivery for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.7-eleven.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "7-Eleven",
+      "url": "https://www.7-eleven.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.7-eleven.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "pricing": {
+      "item_value_cents": 1200,
+      "user_price_cents": 800,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_011",
+    "status": "approved",
+    "title": "Free Wings w/ Food Purchase $15 or More",
+    "restaurant": "Buffalo Wild Wings",
+    "description": "Free wings with a food purchase of $15 or more for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.buffalowildwings.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Buffalo Wild Wings",
+      "url": "https://www.buffalowildwings.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.buffalowildwings.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "pricing": {
+      "item_value_cents": 1000,
+      "user_price_cents": 0,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_012",
+    "status": "approved",
+    "title": "Matchday Wing Bites Starting at $8.99",
+    "restaurant": "TGI Fridays",
+    "description": "Matchday Wing Bites starting at $8.99 for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.tgifridays.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "TGI Fridays",
+      "url": "https://www.tgifridays.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.tgifridays.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "pricing": {
+      "item_value_cents": 1200,
+      "user_price_cents": 899,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_013",
+    "status": "approved",
+    "title": "BOGO Free 9-Piece WhataWings",
+    "restaurant": "Whataburger",
+    "description": "Buy one 9-piece WhataWings, get one free for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://whataburger.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Whataburger",
+      "url": "https://whataburger.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://whataburger.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "pricing": {
+      "item_value_cents": 1000,
+      "user_price_cents": 0,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_014",
+    "status": "approved",
+    "title": "10 Wings for $7.29",
+    "restaurant": "Hooters",
+    "description": "10 wings for $7.29 for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.hooters.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Hooters",
+      "url": "https://www.hooters.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.hooters.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "pricing": {
+      "item_value_cents": 1200,
+      "user_price_cents": 729,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_015",
+    "status": "approved",
+    "title": "10 Wings for $10",
+    "restaurant": "Zaxbys",
+    "description": "10 wings for $10 for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.zaxbys.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Zaxbys",
+      "url": "https://www.zaxbys.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.zaxbys.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "pricing": {
+      "item_value_cents": 1400,
+      "user_price_cents": 1000,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_016",
+    "status": "approved",
+    "title": "50¢ Boneless & $1 Bone-In Wings",
+    "restaurant": "Dave & Buster's",
+    "description": "50¢ boneless wings and $1 bone-in wings for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.daveandbusters.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Dave & Buster's",
+      "url": "https://www.daveandbusters.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.daveandbusters.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "pricing": {
+      "item_value_cents": 150,
+      "user_price_cents": 50,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_017",
+    "status": "approved",
+    "title": "$1 Bone-In Wings",
+    "restaurant": "Plucker's Wing Bar",
+    "description": "$1 bone-in wings for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.pluckers.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Plucker's Wing Bar",
+      "url": "https://www.pluckers.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.pluckers.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "pricing": {
+      "item_value_cents": 175,
+      "user_price_cents": 100,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_018",
+    "status": "approved",
+    "title": "BOGO Free Wings",
+    "restaurant": "Pizza Hut",
+    "description": "Buy one get one free wings for National Chicken Wing Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.pizzahut.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Pizza Hut",
+      "url": "https://www.pizzahut.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.pizzahut.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-29",
+    "event_end_date": "2026-07-29",
+    "pricing": {
+      "item_value_cents": 1000,
+      "user_price_cents": 0,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_019",
+    "status": "approved",
+    "title": "BOGO Free Pretzels",
+    "restaurant": "Auntie Anne's",
+    "description": "Buy one pretzel, get one free weekend deal.",
+    "location": "Nationwide",
+    "source_url": "https://www.auntieannes.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Auntie Anne's",
+      "url": "https://www.auntieannes.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.auntieannes.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-26",
+    "event_end_date": "2026-07-26",
+    "pricing": {
+      "item_value_cents": 450,
+      "user_price_cents": 0,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_020",
+    "status": "approved",
+    "title": "$1 Classic Frosty",
+    "restaurant": "Wendy's",
+    "description": "$1 Classic Frosty weekend deal.",
+    "location": "Nationwide",
+    "source_url": "https://www.wendys.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Wendy's",
+      "url": "https://www.wendys.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.wendys.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-26",
+    "event_end_date": "2026-07-26",
+    "pricing": {
+      "item_value_cents": 250,
+      "user_price_cents": 100,
+      "purchase_required": false,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_021",
+    "status": "approved",
+    "title": "50% Off Breakfast Combos",
+    "restaurant": "Krystal",
+    "description": "50% off breakfast combos weekend deal.",
+    "location": "Nationwide",
+    "source_url": "https://krystal.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Krystal",
+      "url": "https://krystal.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://krystal.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-26",
+    "event_end_date": "2026-07-26",
+    "pricing": {
+      "item_value_cents": 700,
+      "user_price_cents": 350,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_022",
+    "status": "approved",
+    "title": "Free Backpack Giveaway",
+    "restaurant": "Verizon",
+    "description": "Free backpack giveaway event.",
+    "location": "Nationwide",
+    "source_url": "https://www.verizon.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Verizon",
+      "url": "https://www.verizon.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.verizon.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-26",
+    "event_end_date": "2026-07-26",
+    "pricing": {
+      "item_value_cents": 1500,
+      "user_price_cents": 0,
+      "purchase_required": false,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_023",
+    "status": "approved",
+    "title": "Free LEGO Sports Car Build Event",
+    "restaurant": "LEGO",
+    "description": "Free LEGO sports car build event in stores.",
+    "location": "Nationwide",
+    "source_url": "https://www.lego.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "LEGO",
+      "url": "https://www.lego.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.lego.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-26",
+    "event_end_date": "2026-07-26",
+    "pricing": {
+      "item_value_cents": 500,
+      "user_price_cents": 0,
+      "purchase_required": false,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_024",
+    "status": "approved",
+    "title": "Free Mini Blizzard",
+    "restaurant": "Dairy Queen",
+    "description": "Free Mini Blizzard weekend deal.",
+    "location": "Nationwide",
+    "source_url": "https://www.dairyqueen.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Dairy Queen",
+      "url": "https://www.dairyqueen.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.dairyqueen.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-26",
+    "event_end_date": "2026-07-26",
+    "pricing": {
+      "item_value_cents": 400,
+      "user_price_cents": 0,
+      "purchase_required": false,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_025",
+    "status": "approved",
+    "title": "Free Smoothie",
+    "restaurant": "Tropical Smoothie Cafe",
+    "description": "Free Smoothie weekend deal.",
+    "location": "Nationwide",
+    "source_url": "https://www.tropicalsmoothiecafe.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Tropical Smoothie Cafe",
+      "url": "https://www.tropicalsmoothiecafe.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.tropicalsmoothiecafe.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-25",
+    "event_end_date": "2026-07-25",
+    "pricing": {
+      "item_value_cents": 600,
+      "user_price_cents": 0,
+      "purchase_required": false,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_026",
+    "status": "approved",
+    "title": "BOGO Bundtlets",
+    "restaurant": "Nothing Bundt Cakes",
+    "description": "Buy one Bundtlet, get one free weekend deal.",
+    "location": "Nationwide",
+    "source_url": "https://www.nothingbundtcakes.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Nothing Bundt Cakes",
+      "url": "https://www.nothingbundtcakes.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.nothingbundtcakes.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-25",
+    "event_end_date": "2026-07-25",
+    "pricing": {
+      "item_value_cents": 550,
+      "user_price_cents": 0,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
+  },
+  {
+    "candidate_id": "candidate_20260724_027",
+    "status": "approved",
+    "title": "$9.99 Pizzas",
+    "restaurant": "Domino's",
+    "description": "$9.99 pizzas weekend deal.",
+    "location": "Nationwide",
+    "source_url": "https://www.dominos.com",
+    "discovery_source": {
+      "type": "official_website",
+      "name": "Domino's",
+      "url": "https://www.dominos.com"
+    },
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.dominos.com"
+      }
+    ],
+    "event_type": "promotion",
+    "event_start_date": "2026-07-25",
+    "event_end_date": "2026-07-25",
+    "pricing": {
+      "item_value_cents": 1500,
+      "user_price_cents": 999,
+      "purchase_required": true,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
+    }
   }
 ]
