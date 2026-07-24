@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-07-24T22:53:51.359Z",
+  "candidates": [
+    {
+      "candidate_id": "candidate_example_pending",
+      "status": "pending_verification",
+      "errors": [
+        "Missing title",
+        "Missing restaurant",
+        "Missing description",
+        "Missing location",
+        "Missing source_url",
+        "Missing event_type",
+        "Missing event_start_date",
+        "Missing event_end_date",
+        "At least one verification source is required"
+      ]
+    }
+  ],
+  "published": 0,
+  "rejected": 0
+}

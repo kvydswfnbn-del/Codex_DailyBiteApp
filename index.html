@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="Verified food opportunities worth your attention.">
+    <title>DailyBite | Food Intelligence</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://unpkg.com/feather-icons" defer></script>
+</head>
+<body>
+    <header class="app-header">
+        <div class="header-left">
+            <h1 class="logo">DailyBite</h1>
+            <div class="scanner-indicator" title="The app shows the latest generated data, not a real-time scanner.">
+                <div class="pulse-dot"></div>
+                <span class="scanner-text" id="automation-status">LOADING DATA</span>
+            </div>
+        </div>
+        <button class="icon-button" id="settings-button" aria-label="About DailyBite data" aria-expanded="false">
+            <i data-feather="info"></i>
+        </button>
+    </header>
+
+    <aside id="settings-panel" class="settings-panel hidden" aria-label="About DailyBite">
+        <strong>Review-first automation</strong>
+        <p>Only approved, verified deals are published. Data is refreshed by the project pipeline.</p>
+    </aside>
+
+    <main class="app-content">
+        <section id="view-deals" class="page-container hidden"></section>
+        <section id="view-today" class="page-container"></section>
+        <section id="view-calendar" class="page-container hidden"></section>
+    </main>
+
+    <nav class="bottom-nav" aria-label="Primary navigation">
+        <button class="nav-item" data-target="deals"><i data-feather="tag"></i><span>Deals</span></button>
+        <div class="nav-item-center-wrapper"><button class="nav-item center-action active" data-target="today" aria-label="Today"><i data-feather="compass"></i><span class="sr-only">Today</span></button></div>
+        <button class="nav-item" data-target="calendar"><i data-feather="calendar"></i><span>Calendar</span></button>
+    </nav>
+    <script src="app.js"></script>
+</body>
+</html>

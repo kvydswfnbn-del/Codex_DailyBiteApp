@@ -1,0 +1,20 @@
+[
+  {
+    "candidate_id": "candidate_example_pending",
+    "status": "pending_verification",
+    "discovery_source": {
+      "type": "manual",
+      "name": "Example only - do not publish",
+      "url": "https://example.com"
+    },
+    "raw_content": {
+      "source_url": "https://example.com",
+      "text": "Replace this fixture with a real candidate before publishing."
+    },
+    "extracted_claim": {
+      "merchant": "Example Restaurant",
+      "offer": "Example offer",
+      "claimed_date": "2026-07-24"
+    }
+  }
+]

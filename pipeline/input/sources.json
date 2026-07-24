@@ -1,0 +1,10 @@
+[
+  {
+    "source_id": "official-example-disabled",
+    "platform": "website",
+    "source_type": "official_restaurant",
+    "url": "https://example.com",
+    "enabled": false,
+    "notes": "Enable only official or trusted discovery sources. The scan stores a local report; it never publishes a deal."
+  }
+]
