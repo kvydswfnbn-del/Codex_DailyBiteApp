@@ -1,0 +1,44 @@
+name: DailyBite review-first scan
+
+on:
+  schedule:
+    - cron: "17 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  scan-and-propose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm test
+      - run: npm run scan
+      - run: npm run validate
+      - run: npm run publish-data
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dailybite-scan-report
+          path: pipeline/reports/
+          retention-days: 14
+      - name: Open a review pull request when public data changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- data; then
+            echo "No public deal changes to propose."
+            exit 0
+          fi
+          branch="dailybite/scan-$(date -u +%Y%m%d-%H%M%S)"
+          git checkout -b "$branch"
+          git add data
+          git config user.name "dailybite-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(data): propose DailyBite scan update"
+          git push origin "$branch"
+          gh pr create --base "${{ github.event.repository.default_branch }}" --head "$branch" --title "DailyBite scan proposal" --body "Automated pipeline output. Review verification sources, terms, dates, and score breakdowns before merging."
