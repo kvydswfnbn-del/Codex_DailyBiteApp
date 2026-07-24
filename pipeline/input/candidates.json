@@ -1,20 +1,34 @@
 [
   {
-    "candidate_id": "candidate_example_pending",
-    "status": "pending_verification",
+    "candidate_id": "candidate_20260724_001",
+    "status": "approved",
+    "title": "Free Mini Blizzard, Lemonade Cooler or Sparkler",
+    "restaurant": "Dairy Queen",
+    "description": "Free Mini Blizzard, Lemonade Cooler, or Sparkler for National Drive-Thru Day.",
+    "location": "Nationwide",
+    "source_url": "https://www.dairyqueen.com",
     "discovery_source": {
-      "type": "manual",
-      "name": "Example only - do not publish",
-      "url": "https://example.com"
+      "type": "official_website",
+      "name": "Dairy Queen",
+      "url": "https://www.dairyqueen.com"
     },
-    "raw_content": {
-      "source_url": "https://example.com",
-      "text": "Replace this fixture with a real candidate before publishing."
+    "verification_sources": [
+      {
+        "type": "official",
+        "url": "https://www.dairyqueen.com"
+      }
     },
-    "extracted_claim": {
-      "merchant": "Example Restaurant",
-      "offer": "Example offer",
-      "claimed_date": "2026-07-24"
+    "event_type": "promotion",
+    "event_start_date": "2026-07-24",
+    "event_end_date": "2026-07-24",
+    "pricing": {
+      "item_value_cents": 400,
+      "user_price_cents": 0,
+      "purchase_required": false,
+      "signup_required": false,
+      "redemption_steps": 1,
+      "availability": "nationwide",
+      "time_sensitive": true
     }
   }
 ]
